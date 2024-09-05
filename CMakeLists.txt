@@ -7,6 +7,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 # set output executable file directory
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
-include_directories("./includes/")
+# include_directories("./includes/")
 
-add_executable(LinuxCppTemplate "./src/main.cpp")
+add_executable(LinuxCppTemplate "./ch06/UVa210.cpp")
