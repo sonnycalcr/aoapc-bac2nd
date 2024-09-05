@@ -1,6 +1,6 @@
 # About
 
-This is a template for C++ in Windows.
+This is my code repo for Rujia Liu's 《算法竞赛入门经典》(第二版) 中的例题。
 
 I use the tool chains below:
 
