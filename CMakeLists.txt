@@ -9,4 +9,4 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
 
 # include_directories("./includes/")
 
-add_executable(LinuxCppTemplate "./ch03/UVa10082.cpp")
+add_executable(LinuxCppTemplate "./ch09/UVa1025.cpp")
